@@ -304,4 +304,18 @@ and registry entry.
 
 ## 11.4.3.2
 
-***
+***What is the option to fix errors on the drive?*** /F
+
+***What is the option to force the volume to dismount first if necessary?*** /X
+
+***What is the option to locate bad sectors and recover readable information?*** /R
+
+***What happened? Explain.*** Access Denied
+
+***What is the file system of the drive?*** NTFS
+
+***Enter list partition to list all the partitions on the disk. How many partitions are on the disk?*** 4
+
+***What option is used to determine the maximum number of bytes that the volume can be shrink by?*** QUERYMAX
+
+***What is the maximum number of reclaimable bytes?*** 2048
