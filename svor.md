@@ -182,5 +182,126 @@ and registry entry.
 
 ## 11.3.1.11
 
+***What message did you receive? How would you fix this?*** Kveikja aftur á print spooler
 
+***When DHCP Client stops, what other services will also be stopped?*** IP Helper, WinHTTP Web Proxy Auto-Discovery Service, Network List Service og Network Location Awareness
 
+***Why is it important to exercise care when managing services?*** Ef það er slökt á einvherju sem slekkur á tölvunni þá er erfitt að laga það
+
+***What is the full path name to the example file name?*** C:\PerfLogs\DESKTOP-QPQ7C8L_20220203-000001\DataCollector01.csv
+
+***What does the column farthest to the right show?*** Hve mikið MB var verið að nota
+
+## 11.3.2.7
+
+***What was the path you use to navigate to the Event Viewer?*** Í Consolinu ýti ég á Computer Managment, System Tools og svo Event Viewer
+
+***What is the background picture?*** Venjulega Windows Background
+
+***What is the data value of the Background (hint – it has three numbers that correspond to red, green, and blue)?*** Það er bara 0 0 0 því ég kemst ekki í þetta
+
+***What is the data value of the Background?*** Enþá 0 0 0
+
+***What is the data value of the Background? Compare the new value in the Registry to the value saved in BlueBKG.reg.*** Næ ekki
+
+***What is the data value of the Background?*** Enþá 0 0 0
+
+***What is the color of the desktop?*** Blátt
+
+***Why would it be beneficial to add snap-ins to the mmc that are for other computers on the network?*** Létt að komast í mikið af þessu sem þarf að leita að
+
+## 11.3.2.8
+
+***Processor:*** Intel(R) Pentium(R) CPU G3260 @ 3.30GHz, 3300 Mhz, 2 Core(s), 2 Logical Processor(s)
+
+***BIOS Version/Date:*** American Megatrends Inc. P2.30, 3/7/2018
+
+***Total Physical Memory:*** 7.70 GB
+
+***DMA channels and the device using the resources.*** Channel 4	Direct memory access controller
+
+***Adapter Description:*** Intel(R) HD Graphics
+
+***Adapter RAM:*** 1.00 GB (1,073,741,824 bytes)
+
+***Under the Software Environment heading, where would you find the applications that automatically load when the computer boots?*** Startup Programs
+
+***What are the startup options?*** Normal Startup, Diagnostic Startup og Selective Startup
+
+***Can you enable and disable services at this tab?*** Já
+
+***What can you do in this tab?*** Kveikt á fullt af commands
+
+***What does this tool report?*** Gefur information um drivers sem er á tölvunni
+
+***What information is listed on this page?*** Fullt um Hvað er í tölvunni og hvaða drivers eru þar
+
+***What information is listed on this page?*** Hvaða hljóð drivers þú ert með á tölvunni
+
+***What information is listed on this page?*** USB Tæki og það sem er teingt við tölvuna
+
+## 11.4.1.5
+
+***To see the next page, press the spacebar. What happens when you press enter?*** Listinn fer niður einum á tíma
+
+***CD:*** Sýnir hvar þú ert í directory
+
+***CHKDSK:*** Kýkjir á disk og sendir inn ef einvher villa er
+
+***COPY:*** copyar file yfir á annan stað
+
+***DEL:*** eyðir files
+
+***DIR:*** sýnir lista if files og sub-directories í directory
+
+***DISKPART:*** Sýnir eða breytir "Disk Partition Properties"
+
+***EXIT:*** Lokar CMD.EXE
+
+***FORMAT:*** Formattar disk fyrir Windows notkun
+
+***GPRESULT:*** Sýnir "Group Policy information" fyrir alla users á tölvunni
+
+***MD:*** Býr til Directory
+
+***TASKLIST*** Sýnir öll forrit sem eru í gángu
+
+***RD:*** Eyðir directory
+
+***ROBOCOPY:*** Gerir það léttara að færa files og Directories
+
+***SHUTDOWN:*** Leyfir allment slökkva á vélini
+
+***XCOPY:*** Copyar files og directory trees
+
+***How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is C:\Users\ITEUser?*** mkdir \a\b\c
+
+***What command would you use to verify the creation of the nested directories?*** CD
+
+***What command did you use?*** CLS
+
+***What is the last command that you have used? Press Esc on the keyboard to exit the dialog box.*** CLS
+
+***What is the last command?*** CLS
+
+## 11.4.2.7
+
+***What is the current directory?*** C:\Users\jóhann
+
+***Which folder are you in now?*** C:\Users\jóhann\ITEfolder3>
+
+***What command or commands did you use to create the nested folders?*** mkdir \ITEfolder4\ITEfolder5
+
+***After issuing the cd .. command, what is your directory now?*** C:\Users\jóhann\ITEfolder3\ITEfolder4>
+
+***What would be the current directory if you issue this command at C:\Users\ITEUser\ITEfolder3\ITEFolder4?*** Ég mundi fara í ITEfolder3
+
+***What single command would you use to delete all the files with doc2 in the filename? Use the command to remove the files with doc2 in the filename.*** del doc2* 
+
+***What option allows you to copy all the files and directories, including the empty directories?*** /E "Copies directories and subdirectories, including empty ones."
+
+***Were you able to delete the directory? Explain.*** Nei, Því ITEfolder1 er bakvið ITEfolder3
+
+## 11.4.3.2
+
+***
